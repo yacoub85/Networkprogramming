@@ -1,0 +1,68 @@
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\MySql.Data.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Zstandard.Net.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Renci.SshNet.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Memory.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Buffers.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\MySql.Data.xml
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Server_C_Sharp.csprojAssemblyReference.cache
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Server_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Server_C_Sharp.csproj.CopyComplete
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Jakob\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\MySql.Data.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\Zstandard.Net.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\Renci.SshNet.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\System.Memory.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\System.Buffers.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\MySql.Data.xml
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\Server_C_Sharp.csprojAssemblyReference.cache
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\Server_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\Server_C_Sharp.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Jakob\Desktop\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\MySql.Data.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\Google.Protobuf.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\Zstandard.Net.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\BouncyCastle.Crypto.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\Ubiety.Dns.Core.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\Renci.SshNet.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\System.Memory.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\System.Buffers.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\K4os.Hash.xxHash.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\System.Numerics.Vectors.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\bin\Debug\MySql.Data.xml
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\Server_C_Sharp.csproj.AssemblyReference.cache
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\Server_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Jobb tester\Volvo\New folder\Server_C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

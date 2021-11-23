@@ -1,0 +1,4 @@
+C:\Users\hasse\OneDrive\Skrivbord\STI-IoT19\15 - Nätverksprogrammering\Uppgifter\temp_database\TempClient\SocketClient\Debug\SocketClient.exe
+C:\Users\hasse\OneDrive\Skrivbord\STI-IoT19\15 - Nätverksprogrammering\Uppgifter\temp_database\TempClient\SocketClient\Debug\SocketClient.pdb
+C:\Users\Jakob\Desktop\TempClient\SocketClient\Debug\SocketClient.exe
+C:\Users\Jakob\Desktop\TempClient\SocketClient\Debug\SocketClient.pdb

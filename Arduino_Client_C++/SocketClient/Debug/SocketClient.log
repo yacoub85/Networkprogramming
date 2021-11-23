@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Jakob\Desktop\TempClient\SocketClient\Main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Jakob\Desktop\TempClient\SocketClient\Main.cpp(60,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SocketClient.vcxproj -> C:\Users\Jakob\Desktop\TempClient\SocketClient\Debug\SocketClient.exe
